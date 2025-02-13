@@ -1,2 +1,17 @@
-eowietjuoinwueoi´tvu nwoieto´v weoitjv cwoietj coiwej
-uwqeoin coiwfju
+// inicia o git ( repositorio ) no seu projeto
+git init
+
+// verefica alterações de pastas e arquivos no projeto
+git status
+
+// add todos os arquivos e pastas modoficados, ao stage area
+git add .
+ 
+// cria e descreve um ponto na hístoria
+git commit -m " message here"
+
+// histórico de commits do projeto
+git log 
+
+// remove arquivos e pastas do stage area
+git rm --cached "nome do arquivo"
