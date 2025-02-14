@@ -16,5 +16,7 @@ git log
 // remove arquivos e pastas do stage area
 git rm --cached "nome do arquivo"
 
+// ver um arquivo em um estado anterior 
+git checkout "hash do arquerivo"
 
-//
+
