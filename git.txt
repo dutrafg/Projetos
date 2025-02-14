@@ -17,6 +17,6 @@ git log
 git rm --cached "nome do arquivo"
 
 // ver um arquivo em um estado anterior 
-git checkout "hash do arquerivo"
+git checkout "hash do arquivo"
 
-
+// 
