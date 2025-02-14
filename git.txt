@@ -19,4 +19,8 @@ git rm --cached "nome do arquivo"
 // ver um arquivo em um estado anterior 
 git checkout "hash do arquivo"
 
-// 
+// puxa as modificações do repositório remoto para o local
+git pull 
+
+// envia as modificações locais para o remoto
+git push
